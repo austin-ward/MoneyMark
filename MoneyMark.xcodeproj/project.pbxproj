@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		D96FBC022E60FF1700D5B64A /* MoneyMark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoneyMark.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96FBC1C2E623F8D00D5B64A /* MoneyMark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoneyMark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		D96FBC042E60FF1700D5B64A /* MoneyMark */ = {
+		D96FBC1E2E623F8D00D5B64A /* MoneyMark */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = MoneyMark;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D96FBBFF2E60FF1700D5B64A /* Frameworks */ = {
+		D96FBC192E623F8D00D5B64A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D96FBBF92E60FF1700D5B64A = {
+		D96FBC132E623F8D00D5B64A = {
 			isa = PBXGroup;
 			children = (
-				D96FBC042E60FF1700D5B64A /* MoneyMark */,
-				D96FBC032E60FF1700D5B64A /* Products */,
+				D96FBC1E2E623F8D00D5B64A /* MoneyMark */,
+				D96FBC1D2E623F8D00D5B64A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D96FBC032E60FF1700D5B64A /* Products */ = {
+		D96FBC1D2E623F8D00D5B64A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D96FBC022E60FF1700D5B64A /* MoneyMark.app */,
+				D96FBC1C2E623F8D00D5B64A /* MoneyMark.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D96FBC012E60FF1700D5B64A /* MoneyMark */ = {
+		D96FBC1B2E623F8D00D5B64A /* MoneyMark */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D96FBC0D2E60FF1800D5B64A /* Build configuration list for PBXNativeTarget "MoneyMark" */;
+			buildConfigurationList = D96FBC272E623F8F00D5B64A /* Build configuration list for PBXNativeTarget "MoneyMark" */;
 			buildPhases = (
-				D96FBBFE2E60FF1700D5B64A /* Sources */,
-				D96FBBFF2E60FF1700D5B64A /* Frameworks */,
-				D96FBC002E60FF1700D5B64A /* Resources */,
+				D96FBC182E623F8D00D5B64A /* Sources */,
+				D96FBC192E623F8D00D5B64A /* Frameworks */,
+				D96FBC1A2E623F8D00D5B64A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				D96FBC042E60FF1700D5B64A /* MoneyMark */,
+				D96FBC1E2E623F8D00D5B64A /* MoneyMark */,
 			);
 			name = MoneyMark;
 			packageProductDependencies = (
 			);
 			productName = MoneyMark;
-			productReference = D96FBC022E60FF1700D5B64A /* MoneyMark.app */;
+			productReference = D96FBC1C2E623F8D00D5B64A /* MoneyMark.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D96FBBFA2E60FF1700D5B64A /* Project object */ = {
+		D96FBC142E623F8D00D5B64A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					D96FBC012E60FF1700D5B64A = {
+					D96FBC1B2E623F8D00D5B64A = {
 						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = D96FBBFD2E60FF1700D5B64A /* Build configuration list for PBXProject "MoneyMark" */;
+			buildConfigurationList = D96FBC172E623F8D00D5B64A /* Build configuration list for PBXProject "MoneyMark" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = D96FBBF92E60FF1700D5B64A;
+			mainGroup = D96FBC132E623F8D00D5B64A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = D96FBC032E60FF1700D5B64A /* Products */;
+			productRefGroup = D96FBC1D2E623F8D00D5B64A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D96FBC012E60FF1700D5B64A /* MoneyMark */,
+				D96FBC1B2E623F8D00D5B64A /* MoneyMark */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D96FBC002E60FF1700D5B64A /* Resources */ = {
+		D96FBC1A2E623F8D00D5B64A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D96FBBFE2E60FF1700D5B64A /* Sources */ = {
+		D96FBC182E623F8D00D5B64A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		D96FBC0B2E60FF1800D5B64A /* Debug */ = {
+		D96FBC252E623F8F00D5B64A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		D96FBC0C2E60FF1800D5B64A /* Release */ = {
+		D96FBC262E623F8F00D5B64A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -246,7 +246,7 @@
 			};
 			name = Release;
 		};
-		D96FBC0E2E60FF1800D5B64A /* Debug */ = {
+		D96FBC282E623F8F00D5B64A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -256,6 +256,8 @@
 				DEVELOPMENT_TEAM = MHZ92UX964;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = MoneyMark;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -274,7 +276,7 @@
 			};
 			name = Debug;
 		};
-		D96FBC0F2E60FF1800D5B64A /* Release */ = {
+		D96FBC292E623F8F00D5B64A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -284,6 +286,8 @@
 				DEVELOPMENT_TEAM = MHZ92UX964;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = MoneyMark;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -305,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D96FBBFD2E60FF1700D5B64A /* Build configuration list for PBXProject "MoneyMark" */ = {
+		D96FBC172E623F8D00D5B64A /* Build configuration list for PBXProject "MoneyMark" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D96FBC0B2E60FF1800D5B64A /* Debug */,
-				D96FBC0C2E60FF1800D5B64A /* Release */,
+				D96FBC252E623F8F00D5B64A /* Debug */,
+				D96FBC262E623F8F00D5B64A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D96FBC0D2E60FF1800D5B64A /* Build configuration list for PBXNativeTarget "MoneyMark" */ = {
+		D96FBC272E623F8F00D5B64A /* Build configuration list for PBXNativeTarget "MoneyMark" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D96FBC0E2E60FF1800D5B64A /* Debug */,
-				D96FBC0F2E60FF1800D5B64A /* Release */,
+				D96FBC282E623F8F00D5B64A /* Debug */,
+				D96FBC292E623F8F00D5B64A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D96FBBFA2E60FF1700D5B64A /* Project object */;
+	rootObject = D96FBC142E623F8D00D5B64A /* Project object */;
 }
