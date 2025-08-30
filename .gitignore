@@ -1,0 +1,25 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xcuserdatad/
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+
+# SPM
+.swiftpm/
+.build/
+
+# CocoaPods / Carthage (not in your project now, but safe to ignore)
+Pods/
+Carthage/
+cartfile.resolved
+
+# Workspace/user settings
+xcuserdata/
+*.plist~*
+
+# macOS noise
+.DS_Store
+
