@@ -10,9 +10,33 @@
 		D96FBC1C2E623F8D00D5B64A /* MoneyMark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoneyMark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		D96FBCB12E62755500D5B64A /* Exceptions for "MoneyMark" folder in "MoneyMark" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				PastDealsView.swift,
+			);
+			target = D96FBC1B2E623F8D00D5B64A /* MoneyMark */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		D96FBCB22E62755500D5B64A /* Exceptions for "MoneyMark" folder in "Copy Bundle Resources" phase from "MoneyMark" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = D96FBC1A2E623F8D00D5B64A /* Resources */;
+			membershipExceptions = (
+				PastDealsView.swift,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		D96FBC1E2E623F8D00D5B64A /* MoneyMark */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				D96FBCB12E62755500D5B64A /* Exceptions for "MoneyMark" folder in "MoneyMark" target */,
+				D96FBCB22E62755500D5B64A /* Exceptions for "MoneyMark" folder in "Copy Bundle Resources" phase from "MoneyMark" target */,
+			);
 			path = MoneyMark;
 			sourceTree = "<group>";
 		};
